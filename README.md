@@ -3,7 +3,7 @@ This repository houses the ClimateWins Machine Learning Project, a student-led i
 
 The core objectives of this project include:
 
-Applying supervised and unsupervised learning models to discern patterns and predict future climatic phenomena.
-Exploring data from extensive historical weather datasets to understand trends and prepare more accurate predictive models.
-Evaluating the effectiveness of different machine learning strategies in the context of meteorological data.
-This project is a simulation designed for educational purposes, providing practical experience in handling real-world data within an academic framework.
+- Applying supervised and unsupervised learning models to discern patterns and predict future climatic phenomena.
+- Exploring data from extensive historical weather datasets to understand trends and prepare more accurate predictive models.
+- Evaluating the effectiveness of different machine learning strategies in the context of meteorological data.
+- This project is a simulation designed for educational purposes, providing practical experience in handling real-world data within an academic framework.
